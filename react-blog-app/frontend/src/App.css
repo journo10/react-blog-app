@@ -1,0 +1,8 @@
+.app {
+    height: auto
+  }
+  
+  .app.dark {
+    color: #fff;
+    background-color: #282c34;
+  }
